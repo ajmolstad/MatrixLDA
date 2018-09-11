@@ -1,5 +1,5 @@
 # MatrixLDA
-R package for [A Penalized Likelihood Method for Classification with Matrix-valued Predictors](https://www.tandfonline.com/doi/full/10.1080/10618600.2018.1476249) by Molstad and Rothman 
+R package for [A Penalized Likelihood Method for Classification with Matrix-valued Predictors](https://www.tandfonline.com/doi/full/10.1080/10618600.2018.1476249) by Molstad and Rothman. 
 
 
 # Installation
