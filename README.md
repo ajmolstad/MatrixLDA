@@ -11,6 +11,7 @@ devtools::install_github("ajmolstad/MatrixLDA")
 ```
 # Citation
 Please cite the manuscript at the link above. For completeness, below is the bibtex entry: 
+
 ```{r}
 @article{molstad2018penalized,
 
