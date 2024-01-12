@@ -8,7 +8,8 @@ Authors@R: person("Aaron J.", "Molstad", email = "amolstad@fredhutch.org",
 Maintainer: Aaron J. Molstad <amolstad@fredhutch.org>
 Description: Fits the penalized matrix-normal model to be used for linear discriminant analysis with matrix-valued predictors. For a description of the method, see Molstad and Rothman (2018) <doi:10.1080/10618600.2018.1476249>. 
 License: GPL-2
-URL: ajmolstad@github.io
+URL: https://ajmolstad.github.io
+BugReports: https://github.com/ajmolstad/MatrixLDA/issues
 LazyData: TRUE
 Imports: Rcpp (>= 0.12.1), plyr, glasso
 LinkingTo: Rcpp, RcppArmadillo
